@@ -1,5 +1,4 @@
-# Webpack5
+# DOM1
+[![Build status](https://ci.appveyor.com/api/projects/status/9tbu6gn6anpwwsc2/branch/main?svg=true)](https://ci.appveyor.com/project/Mica78/netology-ahj-dom1/branch/main)
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
-# Netology-ahj-dom1
+https://mica78.github.io/Netology-ahj-dom1/
