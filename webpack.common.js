@@ -8,6 +8,11 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     publicPath: '',
   },
+  resolve: {
+    alias: {
+      "@images": path.resolve(__dirname, "./src/images")
+    }
+  },
   module: {
     rules: [
       {

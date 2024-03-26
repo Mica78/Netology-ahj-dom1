@@ -1,10 +1,10 @@
-// import image from "../images/goblin.png";
+import image from "@images/goblin.png";
 export default class goblinWidjet {
   constructor(element) {
     this._element = element;
     this.goblinImage = document.createElement("img");
     this.goblinImage.style.width = "100%";
-    this.goblinImage.src = "../images/goblin.png";
+    this.goblinImage.src = image;
     this.goblinImage.classList.add("goblin");
     this.goblinImage.margin = "auto";
     this.childrens = this._element.querySelectorAll(".hole");
